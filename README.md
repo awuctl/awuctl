@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello
+Do not read this.
+Look [here](https://github.com/Gamers-Against-Weed) instead. 
 
-<!--
-**awuctl/awuctl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Deduce my personality from my software choices:
+<table>
+<tr><td><b>Thing<td><b>What<td><b>Why
+<tr><td><b>OS<td><code>GNU/Linux SMP PREEMPT_DYNAMIC x86_64<td>The Windows UI is a bottleneck for my fast fingers
+<tr><td><b>DE<td>Xfce<td>It's not GNOME, it's not KDE and it works
+<tr><td><b>Shell<td>zsh<td>It's not bash
+<tr><td rowspan=4><b>Editors
+<td>VS Code<td>I love telemetry and stable plugins
+<tr><td>mousepad<td>It's perfect
+<tr><td>TeXstudio<td>It's very nice
+<tr><td>ghostwriter<td>It works
+<tr><td rowspan=4><b>Languages
+<td>Python<td>Brilliant package management
+<tr><td>C<td>Easy to compile, one toolchain and portable executables
+<tr><td>x86 assembly<td>All instructions do their **own** thing with minimum latency
+<tr><td>JavaScript<td>Recursive anonymous callback assignment is the most readable programming paradigm
+<tr><td rowspan=3><b>Favorite software
+<td>Pandoc<td>Not a single type error to date; Reading such fine a Haskell is orgasmic
+<tr><td>radare2<td>Never had issues with it
+<tr><td>blkdiscard<td>Never had issues with it
+</table>
