@@ -1,6 +1,6 @@
 ### Hello
 Do not read this.
-Look [here](https://github.com/Gamers-Against-Weed) instead. 
+Look [here](https://github.com/Gamers-Against-Weed) and [here](https://github.com/massgravel) instead.
 
 ### Deduce my personality from my software choices:
 <table>
@@ -12,7 +12,6 @@ Look [here](https://github.com/Gamers-Against-Weed) instead.
 <td>VS Code<td>I love telemetry and stable plugins
 <tr><td>mousepad<td>It's perfect
 <tr><td>TeXstudio<td>It's very nice
-<tr><td>ghostwriter<td>It works
 <tr><td rowspan=4><b>Languages
 <td>Python<td>Brilliant package management
 <tr><td>C<td>Easy to compile, one toolchain and portable executables
