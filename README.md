@@ -8,7 +8,7 @@ Look [here](https://github.com/Gamers-Against-Weed) and [here](https://github.co
 <tr><td><b>OS<td><code>GNU/Linux SMP PREEMPT_DYNAMIC x86_64<td>The Windows UI is a bottleneck for my fast fingers
 <tr><td><b>DE<td>Xfce<td>It's not GNOME, it's not KDE and it works
 <tr><td><b>Shell<td>zsh<td>It's not bash
-<tr><td rowspan=4><b>Editors
+<tr><td rowspan=3><b>Editors
 <td>VS Code<td>I love telemetry and stable plugins
 <tr><td>mousepad<td>It's perfect
 <tr><td>TeXstudio<td>It's very nice
