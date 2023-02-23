@@ -1,6 +1,5 @@
 ### Hello
 Do not read this.
-Look [here](https://github.com/Gamers-Against-Weed) and [here](https://github.com/massgravel) instead.
 
 ### Deduce my personality from my software choices:
 <table>
@@ -18,7 +17,6 @@ Look [here](https://github.com/Gamers-Against-Weed) and [here](https://github.co
 <tr><td>x86 assembly<td>All instructions do their **own** thing with minimum latency
 <tr><td>JavaScript<td>Recursive anonymous callback assignment is the most readable programming paradigm
 <tr><td rowspan=3><b>Favorite software
-<td>Pandoc<td>Not a single type error to date; Reading such fine a Haskell is orgasmic
 <tr><td>radare2<td>Never had issues with it
 <tr><td>blkdiscard<td>Never had issues with it
 </table>
